@@ -8,7 +8,7 @@ const NewsDetails = () => {
   console.log(news);
 
   return (
-    <div>
+    <div className="font-poppins">
       <header>
         <Header></Header>
       </header>
